@@ -36,4 +36,4 @@ Este projeto está licenciado sob a licença MIT.
 
 ---
 
-Siga-me no [LinkedIn](https://www.linkedin.com/in/alex-des-santos/) para mais dicas sobre carreira e ciência de dados!
+Siga-me no [LinkedIn](https://www.linkedin.com/in/alexxsalles/) para mais dicas sobre carreira e ciência de dados!
